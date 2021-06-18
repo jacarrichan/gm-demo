@@ -1,0 +1,11 @@
+.svn
+.project
+.metadata
+.settings/
+scripts
+/.idea
+.idea/*
+*.iml
+target/
+/bin
+temp/
